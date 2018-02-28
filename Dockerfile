@@ -5,7 +5,7 @@ MAINTAINER Artem Silenkov <artem.silenkov@gmail.com>
 # Setup useful environment variables
 ENV BAMBOO_HOME     /var/atlassian/bamboo
 ENV BAMBOO_INSTALL  /opt/atlassian/bamboo
-ENV BAMBOO_VERSION  6.3.1
+ENV BAMBOO_VERSION  6.4.0
 ENV KUBECONFIG      /var/atlassian/bamboo/.kube/config
 
 # Install Atlassian Bamboo and helper tools and setup initial home
